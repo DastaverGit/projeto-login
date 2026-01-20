@@ -45,7 +45,7 @@ section#login > div#imagem {
 
     /*Lembra de colocar a imagem baixada do google qui como substituto dessa embaixo*/
 
-    background-image: #5f2c82 url(../imagens/paisagem5.webp) no-reapeat;
+    background-image: #5f2c82 url(../imagens/pexels-casa\ rodonda.jpg) no-reapeat;
     background-image: cover;
     background-position: left bottom;
     height: 200px;
